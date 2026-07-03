@@ -14,12 +14,14 @@ This repository contains ONTOΣ XV — an essay, its formal companion, and a tab
 
 > **Status (read first).** This bundle is a *class-conditional formal programme with executable witnesses*. XV.1 (Nestability Criterion) and XV.3 (Core-Reduction) are derived theorems *only within their specified classes*: XV.1 is *formal IE-nestability* in finite-state $\mathsf{Sub}$ — the existence of a formally declared IE-witness lower substrate, **not** physical hostability, epistemic autonomy, or non-fabricated lower dynamics (the companion's autonomy ladder, Definition 2.5, grades those stronger claims); XV.3 is general topology applied to the imported carrier category. **XV.2 (the Bridge Law) is a declared structural law** of the boundary-layer-admissible class — a loop-bearing-envelope class (the envelope must carry a homologically non-trivial cycle; not every smooth boundary layer qualifies) — a sealed proportionality, not a derivation from lower axioms; its empirical content is the multi-event falsification discipline (companion Proposition 3.8) and, on the compatible subclass with integral witness data, the quantised cost-lattice test (companion Proposition 3.11). The walker-and-swarm pair is an **Illustration**, not a physical or deployment witness. The table-top protocol companion (*Two Funnels, One Spin*) is a **proposed protocol**: its physical instances are Illustration-level readings of classical fluid mechanics, none of its runs has been performed, and nothing physical is witnessed by it. The harness supplies **executable witnesses and consistency checks** — it is *not* a proof-assistant formalisation. No physically-confirmed cross-layer result is claimed.
 
-**Author:** Maksim Barziankou (MxBv)
+**Author:** Maksim Barziankou (MxBv) — [LinkedIn](https://www.linkedin.com/in/maxbarzenkov)
 **Affiliation:** The Urgrund Laboratory
+**Website:** https://petronus.eu
 **License:** CC BY-NC-ND 4.0
 **Bundle DOI:** 10.17605/OSF.IO/EAUD5 (single deposit covering the essay + formal companion + table-top protocol companion + verification harness as one citable unit)
 **Axiomatic core anchor:** NC2.5 v2.1, DOI 10.17605/OSF.IO/NHTC5
 **Predecessor:** ONTOΣ XIV corpus bundle, DOI 10.17605/OSF.IO/KAGMH
+**Corpus:** one work in the 130+ work corpus of Navigational Cybernetics 2.5 (MxBv)
 
 ## The three statements at a glance
 

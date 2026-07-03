@@ -5,12 +5,13 @@
 **Maksim Barziankou (MxBv)**
 July 2026 · Poznań
 Contact: research@petronus.eu
+LinkedIn: https://www.linkedin.com/in/maxbarzenkov
 License: CC BY-NC-ND 4.0
 This work DOI: 10.17605/OSF.IO/EAUD5 (deposited with the ONTOΣ XV bundle)
 Axiomatic core anchor: **NC2.5 v2.1**, DOI 10.17605/OSF.IO/NHTC5
-Attribution: petronus.eu
+Website: https://petronus.eu
 
-*Companion to: ONTOΣ XV — Spin-Channel and Nestability, and its formal companion. This document proposes physical instances and a table-top protocol; it derives no new mathematics and reports no measurements.*
+*Companion to: ONTOΣ XV — Spin-Channel and Nestability, and its formal companion. This document proposes physical instances and a table-top protocol; it derives no new mathematics and reports no measurements. One work in the 130+ work corpus of Navigational Cybernetics 2.5.*
 
 ---
 

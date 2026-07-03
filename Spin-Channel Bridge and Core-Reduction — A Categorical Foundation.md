@@ -5,12 +5,13 @@
 **Maksim Barziankou (MxBv)**
 June 2026 · Poznań
 Contact: research@petronus.eu
+LinkedIn: https://www.linkedin.com/in/maxbarzenkov
 License: CC BY-NC-ND 4.0
 This work DOI: 10.17605/OSF.IO/EAUD5 (deposited with the ONTOΣ XV bundle)
 Axiomatic core anchor: **NC2.5 v2.1**, DOI 10.17605/OSF.IO/NHTC5
-Attribution: petronus.eu
+Website: https://petronus.eu
 
-*Companion to: ONTOΣ XV — Spin-Channel and Nestability. Predecessor apparatus: the formal companion to ONTOΣ XIV (Cross-Layer Forgetful Separation: A Categorical Foundation), bundle DOI 10.17605/OSF.IO/KAGMH, v6.1.1.*
+*Companion to: ONTOΣ XV — Spin-Channel and Nestability. Predecessor apparatus: the formal companion to ONTOΣ XIV (Cross-Layer Forgetful Separation: A Categorical Foundation), bundle DOI 10.17605/OSF.IO/KAGMH, v6.1.1. One work in the 130+ work corpus of Navigational Cybernetics 2.5.*
 
 ---
 
