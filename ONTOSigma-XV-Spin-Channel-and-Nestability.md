@@ -2,14 +2,14 @@
 
 ## On the Bridge Between Maintenance Cost and Witness Geometry, with a Subcritical Criterion for Nesting
 
-**Maksim Barziankou (MxBv)**
-June 2026 · Poznań
-Contact: research@petronus.eu
-LinkedIn: https://www.linkedin.com/in/maxbarzenkov
-License: CC BY-NC-ND 4.0
-This work DOI: 10.17605/OSF.IO/EAUD5 (deposited with the ONTOΣ XV bundle)
-Axiomatic core anchor: **NC2.5 v2.1**, DOI 10.17605/OSF.IO/NHTC5
-Website: https://petronus.eu
+**Maksim Barziankou (MxBv)**  
+June 2026 · Poznań  
+Contact: research@petronus.eu  
+LinkedIn: https://www.linkedin.com/in/maxbarzenkov  
+License: CC BY-NC-ND 4.0  
+This work DOI: 10.17605/OSF.IO/EAUD5 (deposited with the ONTOΣ XV bundle)  
+Axiomatic core anchor: **NC2.5 v2.1**, DOI 10.17605/OSF.IO/NHTC5  
+Website: https://petronus.eu  
 
 *ONTOΣ XV is grounded in NC2.5 v2.1 and in the cohomological-witness machinery of the XIV companion (v6.1.1). It is one work in the 130+ work corpus of Navigational Cybernetics 2.5.*
 
@@ -231,7 +231,7 @@ The deferred residue, in companion §7:
 
 The essay and the companion of ONTOΣ XV are designed to be the foundation a depth-$n$ extension would build on. The depth-2 statements XV.1 and XV.3 hold as derived theorems within their classes, XV.2 as a declared structural law; the depth-$n$ generalisations — composite cohomology stack, level-$k$ collapse propagation, recursive transport functor — remain candidate future work.
 
-**Maksim Barziankou (MxBv)**
+**Maksim Barziankou (MxBv)**  
 *ONTOΣ Series — Part XV*
 *Previous: XIV — Nested Substrates and the Frame-Relative Derivative*
 *Axiomatic core: NC2.5 v2.1, DOI 10.17605/OSF.IO/NHTC5*

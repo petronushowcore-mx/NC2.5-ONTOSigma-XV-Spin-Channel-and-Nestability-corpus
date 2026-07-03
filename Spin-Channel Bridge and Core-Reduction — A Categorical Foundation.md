@@ -2,14 +2,14 @@
 
 ## A Formal Companion to ONTOΣ XV
 
-**Maksim Barziankou (MxBv)**
-June 2026 · Poznań
-Contact: research@petronus.eu
-LinkedIn: https://www.linkedin.com/in/maxbarzenkov
-License: CC BY-NC-ND 4.0
-This work DOI: 10.17605/OSF.IO/EAUD5 (deposited with the ONTOΣ XV bundle)
-Axiomatic core anchor: **NC2.5 v2.1**, DOI 10.17605/OSF.IO/NHTC5
-Website: https://petronus.eu
+**Maksim Barziankou (MxBv)**  
+June 2026 · Poznań  
+Contact: research@petronus.eu  
+LinkedIn: https://www.linkedin.com/in/maxbarzenkov  
+License: CC BY-NC-ND 4.0  
+This work DOI: 10.17605/OSF.IO/EAUD5 (deposited with the ONTOΣ XV bundle)  
+Axiomatic core anchor: **NC2.5 v2.1**, DOI 10.17605/OSF.IO/NHTC5  
+Website: https://petronus.eu  
 
 *Companion to: ONTOΣ XV — Spin-Channel and Nestability. Predecessor apparatus: the formal companion to ONTOΣ XIV (Cross-Layer Forgetful Separation: A Categorical Foundation), bundle DOI 10.17605/OSF.IO/KAGMH, v6.1.1. One work in the 130+ work corpus of Navigational Cybernetics 2.5.*
 
@@ -560,6 +560,6 @@ The deferred residue, retained as forward directions in the discipline of XIV co
 
 *This companion is a single entry within NC2.5. It carries the formal treatment of ONTOΣ XV — the proofs of XV.1 and XV.3 and the declared Bridge Law of XV.2; the essay carries the exposition. The two are read in pair, as those of ONTOΣ XIV were.*
 
-**Maksim Barziankou (MxBv)**
+**Maksim Barziankou (MxBv)**  
 *Formal companion to ONTOΣ XV — Spin-Channel and Nestability*
 *Axiomatic core: NC2.5 v2.1, DOI 10.17605/OSF.IO/NHTC5*

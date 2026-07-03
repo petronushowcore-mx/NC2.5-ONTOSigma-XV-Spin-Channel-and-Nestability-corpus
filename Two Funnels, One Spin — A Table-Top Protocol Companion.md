@@ -2,14 +2,14 @@
 
 ## A Table-Top Protocol Companion to ONTOΣ XV
 
-**Maksim Barziankou (MxBv)**
-July 2026 · Poznań
-Contact: research@petronus.eu
-LinkedIn: https://www.linkedin.com/in/maxbarzenkov
-License: CC BY-NC-ND 4.0
-This work DOI: 10.17605/OSF.IO/EAUD5 (deposited with the ONTOΣ XV bundle)
-Axiomatic core anchor: **NC2.5 v2.1**, DOI 10.17605/OSF.IO/NHTC5
-Website: https://petronus.eu
+**Maksim Barziankou (MxBv)**  
+July 2026 · Poznań  
+Contact: research@petronus.eu  
+LinkedIn: https://www.linkedin.com/in/maxbarzenkov  
+License: CC BY-NC-ND 4.0  
+This work DOI: 10.17605/OSF.IO/EAUD5 (deposited with the ONTOΣ XV bundle)  
+Axiomatic core anchor: **NC2.5 v2.1**, DOI 10.17605/OSF.IO/NHTC5  
+Website: https://petronus.eu  
 
 *Companion to: ONTOΣ XV — Spin-Channel and Nestability, and its formal companion. This document proposes physical instances and a table-top protocol; it derives no new mathematics and reports no measurements. One work in the 130+ work corpus of Navigational Cybernetics 2.5.*
 
@@ -129,6 +129,6 @@ The discrete mirrors of runs 1 and 3 — the annulus dichotomy over declared 2-c
 
 ---
 
-**Maksim Barziankou (MxBv)**
+**Maksim Barziankou (MxBv)**  
 *Table-top protocol companion to ONTOΣ XV — Spin-Channel and Nestability*
 *Axiomatic core: NC2.5 v2.1, DOI 10.17605/OSF.IO/NHTC5*
